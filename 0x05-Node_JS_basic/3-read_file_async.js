@@ -46,4 +46,4 @@ const countStudents = (dataPath) => new Promise((resolve, reject) => {
   });
 });
 
-module.exports = countStudents;`
+module.exports = countStudents;
